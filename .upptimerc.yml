@@ -7,8 +7,8 @@ sites:
     url: https://usthing.xyz
   - name: API - Campus Services
     url: https://campus-services.api.usthing.xyz/v1/categories
-  - name: API - MS Proxy
-    url: https://ms.api.usthing.xyz
+  - name: API - Static
+    url: https://static.api.usthing.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
