@@ -22,7 +22,7 @@
     "url": "https://campus-services.api.usthing.xyz/v1/categories",
     "icon": "https://icons.duckduckgo.com/ip3/campus-services.api.usthing.xyz.ico",
     "slug": "api-campus-services",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
