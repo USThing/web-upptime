@@ -1,7 +1,7 @@
 url: https://campus-services.api.usthing.xyz/v1/categories
-status: down
-code: 502
-responseTime: 695
-lastUpdated: 2025-01-25T07:03:46.254Z
+status: up
+code: 200
+responseTime: 880
+lastUpdated: 2025-01-25T18:21:57.623Z
 startTime: 2024-09-05T13:14:43.325Z
 generator: Upptime <https://github.com/upptime/upptime>
