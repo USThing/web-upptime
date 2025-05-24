@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1143,
+    "time": 1142,
     "timeDay": 1205,
     "timeWeek": 1238,
     "timeMonth": 1248,
-    "timeYear": 1143,
+    "timeYear": 1142,
     "dailyMinutesDown": {}
   },
   {
@@ -40,17 +40,17 @@
     "url": "https://static.api.usthing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/static.api.usthing.xyz.ico",
     "slug": "api-static",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 732,
+    "time": 731,
     "timeDay": 802,
     "timeWeek": 731,
     "timeMonth": 702,
-    "timeYear": 732,
+    "timeYear": 731,
     "dailyMinutesDown": {}
   }
 ]
