@@ -4,7 +4,7 @@
     "url": "https://usthing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/usthing.xyz.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 1170,
     "timeDay": 1146,
     "timeWeek": 1301,
-    "timeMonth": 1257,
+    "timeMonth": 1256,
     "timeYear": 1170,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "https://static.api.usthing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/static.api.usthing.xyz.ico",
     "slug": "api-static",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 733,
     "timeDay": 1014,
     "timeWeek": 762,
-    "timeMonth": 708,
+    "timeMonth": 709,
     "timeYear": 733,
     "dailyMinutesDown": {}
   }
