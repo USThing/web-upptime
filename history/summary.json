@@ -4,17 +4,17 @@
     "url": "https://usthing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/usthing.xyz.ico",
     "slug": "home",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1172,
-    "timeDay": 1145,
-    "timeWeek": 1281,
-    "timeMonth": 1272,
-    "timeYear": 1172,
+    "time": 1173,
+    "timeDay": 1388,
+    "timeWeek": 1319,
+    "timeMonth": 1282,
+    "timeYear": 1173,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 732,
+    "time": 731,
     "timeDay": 668,
     "timeWeek": 747,
     "timeMonth": 689,
-    "timeYear": 732,
+    "timeYear": 731,
     "dailyMinutesDown": {}
   }
 ]
