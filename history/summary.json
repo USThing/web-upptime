@@ -13,7 +13,7 @@
     "time": 1172,
     "timeDay": 1056,
     "timeWeek": 1192,
-    "timeMonth": 1257,
+    "timeMonth": 1253,
     "timeYear": 1172,
     "dailyMinutesDown": {}
   },
@@ -40,17 +40,17 @@
     "url": "https://static.api.usthing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/static.api.usthing.xyz.ico",
     "slug": "api-static",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 732,
-    "timeDay": 676,
-    "timeWeek": 710,
-    "timeMonth": 700,
-    "timeYear": 732,
+    "time": 731,
+    "timeDay": 685,
+    "timeWeek": 709,
+    "timeMonth": 698,
+    "timeYear": 731,
     "dailyMinutesDown": {}
   }
 ]
