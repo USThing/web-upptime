@@ -4,7 +4,7 @@
     "url": "https://usthing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/usthing.xyz.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1172,
     "timeDay": 1566,
-    "timeWeek": 1204,
+    "timeWeek": 1151,
     "timeMonth": 1255,
     "timeYear": 1172,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 731,
     "timeDay": 696,
-    "timeWeek": 705,
+    "timeWeek": 704,
     "timeMonth": 701,
     "timeYear": 731,
     "dailyMinutesDown": {}
